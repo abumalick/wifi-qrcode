@@ -1,0 +1,32 @@
+.form {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+}
+
+.qrcodeCard {
+    padding: 20px;
+    padding-top: 100px;
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.qrcodeCard__icon {
+    width: 80px;
+}
+.qrcodeCard__title {
+    font-size: 36px;
+    font-weight: 700;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    color: #333;
+
+
+}
+
+.qrcodeCard__qrcode {
+    /* padding-top: 20px; */
+}
